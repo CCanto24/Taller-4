@@ -45,8 +45,11 @@ npm run lint
 ![captura taller 4-4](img/taller4-4.PNG)
 
 integrantes:
+
 Carlos Canto 8-896-2125
-Daniel Rodas E-8-135555
+
+Daniel Rodas E-8-138555
+
 Ricardo Velasco 1-741-1919
 
 
