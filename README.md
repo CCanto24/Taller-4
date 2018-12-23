@@ -43,7 +43,7 @@ npm run lint
 
 ⦁	Por último, en la vista principal (Home, la cual contiene el formulario), se muestra un link hace la vista de About, donde al presionar sobre ella se configuro una router-vue que muestra la información de los integrantes del grupo.
 
-![captura taller 4-4](img/taller4-4.PNG)
+![captura taller 4-4](img/taller4-about.PNG)
 
 integrantes:
 
